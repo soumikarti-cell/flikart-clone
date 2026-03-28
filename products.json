@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "category": "WOMENS",
+      "image": "../image/female-fashion-set-women-s-clothes-collection-spring-outfit-dresses-jeans-tops-blazers-leather-jacket-trench-coat-cardigans-boots-and-sneakers-illustration-vector.jpg",
+      "price": 299,
+      "description": "Womens clothing starts at ₹499"
+    },
+    {
+      "category": "MENS",
+      "image": "../image/mens.jpeg",
+      "price": 999,
+      "description": "Mens clothing starts at ₹499"
+    },
+    {
+      "category": "KIDS",
+      "image": "../image/2038f581801d23c17b8e168c4ce4b6c7.jpg",
+      "price": 299,
+      "description": "Kids clothing starts at ₹299"
+    }
+  ]
+}
