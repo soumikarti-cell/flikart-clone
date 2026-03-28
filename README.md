@@ -1,1 +1,0 @@
-# flikart-clone
